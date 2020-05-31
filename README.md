@@ -2,4 +2,4 @@
 
 
 ### 01_mp_items_properties.py 
-- Gets all the metadata from items stored in a root folder (media as video, audio, images, compound clips, timelines ect. are considered as clips by default)
+- Gets all the metadata from items stored in a root folder (media such as video, audio, images, compound clips, timelines ect. are considered as clips by default)
