@@ -2,7 +2,7 @@ import DaVinciResolveScript as dvr
 resolve = dvr.scriptapp("Resolve")
 
 """
-A small script to get all the metadata from items in a root folder (media as timelines, images ect. are considered as clips by default)
+script to get all the metadata from items in a root folder (media as timelines, images ect. are considered as clips by default)
 
 pm == project manager
 proj == project
